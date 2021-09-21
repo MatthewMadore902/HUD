@@ -113,11 +113,13 @@ namespace HUD
 			Console.WriteLine("");
 			Console.WriteLine(" ");
 			Console.WriteLine(" ");
+			
+			/*int kill;
 
-			if string("kill an enemy");
+			if string kill ("kill an enemy");
 			{
 				score = score + 100;			
-			}
+			}*/
 
 			
 			Console.ReadKey();
