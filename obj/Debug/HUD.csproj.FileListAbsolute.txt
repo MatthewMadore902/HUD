@@ -1,0 +1,7 @@
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\bin\Debug\HUD.exe.config
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\bin\Debug\HUD.exe
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\bin\Debug\HUD.pdb
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\obj\Debug\HUD.csproj.AssemblyReference.cache
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\obj\Debug\HUD.csproj.CoreCompileInputs.cache
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\obj\Debug\HUD.exe
+C:\Users\W0454234\OneDrive - Nova Scotia Community College\Coding\HUD\HUD\obj\Debug\HUD.pdb
